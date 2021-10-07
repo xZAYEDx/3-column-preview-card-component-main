@@ -5,3 +5,6 @@ This is the solution/output from frontendmentor.io challenge.
 # Technologies use 
 HTML5 and CSS3.
 -Note* :- This was coded using raw HTML and CSS only! Therefore no framework and libraries were used.
+
+# Click/copy the link in the browser
+https://xzayedx.github.io/3-column-preview-card-component-main/
